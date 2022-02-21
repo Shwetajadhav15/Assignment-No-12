@@ -1,5 +1,5 @@
 # Assignment-No-12
-Naive_Bayes-Assignment
+# Naive_Bayes-Assignment
 
 Prepare a classification model using Naive Bayes for salary data
 Data Description :-
